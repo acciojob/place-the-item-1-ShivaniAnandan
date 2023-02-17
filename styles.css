@@ -6,10 +6,7 @@
 	flex-direction:row;
 	flex-wrap:wrap;
 }
-body{
-	margin:0;
-	padding:0;
-}
+
 .three{
 	height:80px;
 	width:80px;
