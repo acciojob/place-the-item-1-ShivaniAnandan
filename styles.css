@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+.container{
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+}
+body{
+	margin:0;
+	padding:0;
+}
+.three{
+	height:80px;
+	width:80px;
+	background-color:green;
+	font-size:40px;
+}
+.two{
+	height:80px;
+	width:80px;
+	background-color:blue;
+	font-size:40px;
+}
+.one{
+	height:80px;
+	width:80px;
+	background-color:red;
+	font-size:40px;
+}
